@@ -1,0 +1,3 @@
+twint aiohttp aiodns beautifulsoup4 cchardet elasticsearch pysocks pandas aiohttp_socks schedule geopy fake-useragent
+
+pip install --user twint aiohttp aiodns beautifulsoup4 cchardet elasticsearch pysocks pandas aiohttp_socks schedule geopy fake-useragent
